@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=400&text=SOO%20JIN%20KIM)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=400&text=SOO%20JIN%20KIM)
 
 <!--
 **Suziny91/Suziny91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
